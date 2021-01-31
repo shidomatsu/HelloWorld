@@ -1,0 +1,6 @@
+name: Helloworld
+version: ${project.version}
+main: mohaimen.helloworld.Helloworld
+api-version: 1.16
+commands:
+  hello:
